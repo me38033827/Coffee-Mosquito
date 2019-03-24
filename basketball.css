@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+body{
+	margin:0 auto;
+	width:950px;
+	height:700px;
+	font-size:12px;
+	border:1px solid silver;
+}
+.ad{
+	width:144px;
+	height:600px;
+	float:left;
+	border:1px solid green;
+}
+.top{
+	width:950px;
+	height:100px;
+	border:1px solid green;
+}
+.race{
+	width:400px;
+	height:300px;
+	float:left;
+	border:1px solid green;
+}
+.equipment{
+	width:400px;
+	height:300px;
+	border:1px solid silver;
+	float:left;
+}
+.local{
+	width:400px;
+	height:300px;
+	border:1px solid green;
+	float:left;	
+}
+.experience{
+	width:400px;
+	height:300px;
+	border:1px solid blue;
+	float:left;	
+}
+a:link{
+color:black;
+font-size:12px;
+text-decoration:none;
+}
+a:hover{
+text-decoration:underline;
+font-size:14px;
+color:green;
+}
+a:visited{
+color:gray;
+}
